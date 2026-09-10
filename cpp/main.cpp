@@ -2,5 +2,6 @@
 
 int main() {
     std::cout << "Hello, GitHub!" << std::endl;
+    std::cout << "I am learning C++ and Git." << std::endl;
     return 0;
 }
